@@ -5,7 +5,7 @@ This project is a full ETL (Extract, Transform, Load) pipeline built to turn raw
 
 We extract a table from the web, enhance it with real-world exchange rates, and load the final product into both a CSV file and a local SQLite database — all while keeping detailed logs of every step.
 
-Because data science without traceability is just expensive guessing.
+Originally created as an assigment to the IBM data engeneering course. 
 
 ---
 
@@ -74,7 +74,7 @@ Every action the pipeline takes — from extraction to transformation to loading
 
 ---
 
-## ⚖️ License
+## ⚖️ Author
 
-This project is licensed under the MIT License.  
-Feel free to use, modify, break, or build upon it — just don't forget to give credit where credit is due.
+With a hint and coffee and humor by **Gabriel Vanzuita**
+[www.linkedin.com/in/gabriel-vanzuita](https://www.linkedin.com/in/gabriel-vanzuita)
