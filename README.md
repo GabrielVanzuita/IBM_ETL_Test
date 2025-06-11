@@ -30,8 +30,6 @@ project_root/
 │   ├── loader.py             # Loads data into CSV and SQLite
 │   └── main.py               # Orchestrates the ETL pipeline
 │
-├── tests/                    # Test suite
-│   └── __init__.py
 │
 ├── .gitignore                # Files to ignore in version control
 ├── README.md                 # You're reading it
